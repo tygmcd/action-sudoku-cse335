@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<level width="30" height="20" tilewidth="48" tileheight="48">
+	<declarations>
+		<given id="i145" width="48" height="48" image="0b.png" value="0" />
+		<digit id="i146" width="48" height="48" image="0r.png" value="0" />
+		<given id="i147" width="48" height="48" image="1b.png" value="1" />
+		<digit id="i148" width="48" height="48" image="1r.png" value="1" />
+		<given id="i149" width="48" height="48" image="2b.png" value="2" />
+		<digit id="i150" width="48" height="48" image="2r.png" value="2" />
+		<given id="i151" width="48" height="48" image="3b.png" value="3" />
+		<digit id="i152" width="48" height="48" image="3r.png" value="3" />
+		<given id="i153" width="48" height="48" image="4b.png" value="4" />
+		<digit id="i154" width="48" height="48" image="4r.png" value="4" />
+		<given id="i155" width="48" height="48" image="5b.png" value="5" />
+		<digit id="i156" width="48" height="48" image="5r.png" value="5" />
+		<given id="i157" width="48" height="48" image="6b.png" value="6" />
+		<digit id="i158" width="48" height="48" image="6r.png" value="6" />
+		<given id="i159" width="48" height="48" image="7b.png" value="7" />
+		<digit id="i160" width="48" height="48" image="7r.png" value="7" />
+		<given id="i161" width="48" height="48" image="8b.png" value="8" />
+		<digit id="i162" width="48" height="48" image="8r.png" value="8" />
+		<sparty id="i165" width="96" height="96" front="2" head-pivot-angle="0.8" head-pivot-x="30" head-pivot-y="86" image1="sparty-1.png" image2="sparty-2.png" mouth-pivot-angle="1" mouth-pivot-x="39" mouth-pivot-y="86" target-x="72" target-y="24" />
+		<background id="i245" width="528" height="528" image="sudoku.png" />
+		<background id="i246" width="1440" height="960" image="background2.png" />
+		<xray id="i167" width="144" height="144" image="xray.png" capacity="7" />
+		<wall id="i168" width="96" height="96" image="wall.png" />
+	</declarations>
+	<game col="5" row="1">2 7 0 6 3 4 1 8 5 8 6 1 2 0 5 3 4 7 5 3 4 8 1 7 0 2 6 3 1 8 0 6 2 7 5 4 4 5 6 3 7 8 2 1 0 7 0 2 4 5 1 6 3 8 1 2 5 7 4 6 8 0 3 6 8 3 5 2 0 4 7 1 0 4 7 1 8 3 5 6 2</game>
+	<items>
+		<background id="i246" col="0.0" row="19.0" />
+		<background id="i245" col="4.0" row="10.0" />
+		<xray id="i167" col="1.2995" row="7.6219" />
+
+		
+		<given id="i149" col="5" row="1" />
+		<given id="i159" col="6" row="1" />
+		<given id="i145" col="7" row="1" />
+		<given id="i157" col="8" row="1" />
+		<given id="i151" col="9" row="1" />
+		<given id="i153" col="10" row="1" />
+		<given id="i147" col="11" row="1" />
+		<given id="i161" col="12" row="1" />
+		<given id="i155" col="13" row="1" />
+
+		<given id="i161" col="5" row="2" />
+		<given id="i157" col="6" row="2" />
+		<given id="i147" col="7" row="2" />
+		<given id="i145" col="9" row="2" />
+		<given id="i155" col="10" row="2" />
+		<given id="i153" col="12" row="2" />
+		<given id="i159" col="13" row="2" />
+
+		<given id="i155" col="5" row="3" />
+		<given id="i151" col="6" row="3" />
+		<given id="i161" col="8" row="3" />
+		<given id="i147" col="9" row="3" />
+		<given id="i145" col="11" row="3" />
+		<given id="i149" col="12" row="3" />
+		<given id="i157" col="13" row="3" />
+
+		<given id="i151" col="5" row="4" />
+		<given id="i147" col="6" row="4" />
+		<given id="i161" col="7" row="4" />
+		<given id="i145" col="8" row="4" />
+		<given id="i157" col="9" row="4" />
+		<given id="i149" col="10" row="4" />
+		<given id="i159" col="11" row="4" />
+		<given id="i155" col="12" row="4" />
+		<given id="i153" col="13" row="4" />
+
+		<given id="i155" col="6" row="5" />
+		<given id="i157" col="7" row="5" />
+		<given id="i151" col="8" row="5" />
+		<given id="i159" col="9" row="5" />
+		<given id="i161" col="10" row="5" />
+		<given id="i149" col="11" row="5" />
+		<given id="i147" col="12" row="5" />
+		<given id="i145" col="13" row="5" />
+
+		<given id="i159" col="5" row="6" />
+		<given id="i145" col="6" row="6" />
+		<given id="i153" col="8" row="6" />
+		<given id="i155" col="9" row="6" />
+		<given id="i147" col="10" row="6" />
+		<given id="i151" col="12" row="6" />
+		<given id="i161" col="13" row="6" />
+
+		<given id="i147" col="5" row="7" />
+		<given id="i149" col="6" row="7" />
+		<given id="i155" col="7" row="7" />
+		<given id="i159" col="8" row="7" />
+		<given id="i153" col="9" row="7" />
+		<given id="i157" col="10" row="7" />
+		<given id="i161" col="11" row="7" />
+		<given id="i145" col="12" row="7" />
+		<given id="i151" col="13" row="7" />
+
+		<given id="i157" col="5" row="8" />
+		<given id="i151" col="7" row="8" />
+		<given id="i155" col="8" row="8" />
+		<given id="i149" col="9" row="8" />
+		<given id="i153" col="11" row="8" />
+		<given id="i159" col="12" row="8" />
+		<given id="i147" col="13" row="8" />
+
+		<given id="i145" col="5" row="9" />
+		<given id="i153" col="6" row="9" />
+		<given id="i147" col="8" row="9" />
+		<given id="i161" col="9" row="9" />
+		<given id="i151" col="10" row="9" />
+		<given id="i155" col="11" row="9" />
+		<given id="i157" col="12" row="9" />
+		<given id="i149" col="13" row="9" />
+
+
+		<digit id="i146" col="28" row="0" />
+		<digit id="i150" col="29" row="1" />
+		<digit id="i160" col="28" row="2" />
+		<digit id="i154" col="27" row="1" />
+
+		<digit id="i154" col="20" row="9" />
+		<digit id="i150" col="20" row="10" />
+
+		<digit id="i158" col="26" row="15" />
+		<digit id="i162" col="29" row="15" />
+		<digit id="i152" col="26" row="17" />
+		<digit id="i160" col="27" row="18" />
+
+
+		<wall id="i168" col="16" row="1" />
+		<wall id="i168" col="16" row="3" />
+
+		<wall id="i168" col="20" row="3" />
+		<wall id="i168" col="20" row="5" />
+		<wall id="i168" col="20" row="7" />
+		<wall id="i168" col="18" row="7" />
+		<wall id="i168" col="16" row="7" />
+		<wall id="i168" col="16" row="9" />
+		<wall id="i168" col="16" row="11" />
+
+		<wall id="i168" col="22" row="9" />
+		<wall id="i168" col="24" row="9" />
+		<wall id="i168" col="26" row="9" />
+
+		<wall id="i168" col="24" row="3" />
+		<wall id="i168" col="24" row="5" />
+		<wall id="i168" col="26" row="5" />
+		<wall id="i168" col="28" row="5" />
+
+		<wall id="i168" col="2" row="13" />
+		<wall id="i168" col="4" row="13" />
+		<wall id="i168" col="6" row="13" />
+		<wall id="i168" col="8" row="13" />
+		<wall id="i168" col="10" row="13" />
+		<wall id="i168" col="12" row="13" />
+		<wall id="i168" col="14" row="13" />
+		<wall id="i168" col="16" row="13" />
+		<wall id="i168" col="18" row="13" />
+		<wall id="i168" col="20" row="13" />
+		<wall id="i168" col="22" row="13" />
+		<wall id="i168" col="24" row="13" />
+		<wall id="i168" col="26" row="13" />
+		<wall id="i168" col="28" row="13" />
+
+		<wall id="i168" col="0" row="17" />
+		<wall id="i168" col="2" row="17" />
+
+		<wall id="i168" col="6" row="17" />
+		<wall id="i168" col="8" row="17" />
+		<wall id="i168" col="10" row="17" />
+		<wall id="i168" col="10" row="19" />
+
+		<wall id="i168" col="14" row="17" />
+		<wall id="i168" col="16" row="17" />
+		<wall id="i168" col="18" row="17" />
+		<wall id="i168" col="20" row="17" />
+		<wall id="i168" col="22" row="17" />
+		<wall id="i168" col="22" row="15" />
+		<sparty id="i165" col="1.5" row="4.3" />
+	</items>
+</level>
