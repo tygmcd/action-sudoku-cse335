@@ -22,7 +22,7 @@ C++, CMake, wxWidgets, CLion
 ## Screenshots
 
 ![App Screenshot](https://github.com/tygmcd/action-sudoku-cse335/assets/114266080/1bcc1456-3bda-4d33-bf92-08101fc180e2)
-![App Screenshot](https://github.com/tygmcd/action-sudoku-cse335/assets/114266080/1bcc1456-3bda-4d33-bf92-08101fc180e2)
+![App Screenshot](https://github.com/tygmcd/action-sudoku-cse335/assets/114266080/6be89ac6-780b-4c32-96ca-f889ccd6cbe3)
 ![App Screenshot](https://github.com/tygmcd/action-sudoku-cse335/assets/114266080/1bcc1456-3bda-4d33-bf92-08101fc180e2)
 
 
